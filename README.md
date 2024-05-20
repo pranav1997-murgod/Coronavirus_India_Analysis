@@ -9,31 +9,31 @@ A Data Analysis project on the spread of the Novel Coronavirus in India. This pr
 
 ## Import pandas as pd:
 Pandas is a python software package. It is a must to learn for data-science and dedicatedly written for Python language. It is a fast, demonstrative, and adjustable platform that offers intuitive data-structures. You can easily manipulate any type of data such as – structured or time-series data with this amazing package.
-# Import NumPy as np NumPy is a popular array 
+## Import NumPy as np NumPy is a popular array 
 – processing package of Python. It provides good support for different dimensional array objects as well as for matrices. Numpy is not only confined to providing arrays only, but it also provides a variety of tools to manage these arrays. It is fast, efficient, and really good for managing matrices and arrays.
-# Import matplotlib.pyplot
+## Import matplotlib.pyplot
 as plt Matplotlib is a Python library that uses Python Script to write 2-dimensional graphs and plots. Often mathematical or scientific applications require more than single axes in a representation. This library helps us to build multiple plots at a time. You can, however, use Matplotlib to manipulate different characteristics of figures as well.
-# Import seaborn as sns
+## Import seaborn as sns
 It is a library built on prime of matplotlib. it allows one to make their visualisations pretty and provide us with some of the common visualisation needs (like mapping a colour to a variable or using faceting). Seaborn is more integrated for working with pandas DataFrames
-# Import plotly 
+## Import plotly 
 The plotly Python library is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases. Built on top of the Plotly JavaScript library (plotly.js), plotly enables Python users to create beautiful interactive web-based visualizations that can be displayed in Jupyter notebooks, saved to standalone HTML files, or served as part of pure Python-built web applications using Dash.
-# Import Folium
+## Import Folium
 Folium is a Python library used for visualizing geospatial data. It is easy to use and yet a powerful library. Folium is a Python wrapper for Leaflet. js which is a leading open-source JavaScript library for plotting interactive maps.
-# Prediction and Forecasting
+## Prediction and Forecasting
 In python prediction and forecasting can be carried out with a help of “fbprophet” package. Prophet is a facebook’s open source time series prediction. Prophet decomposes time series into trend, seasonality and holiday. It has intuitive hyper parameters which are easy to tune.
 
 • Trend models non periodic changes in the value of the time series.
 • Seasonality is the periodic changes like daily, weekly, or yearly seasonality.
 • Holiday effect which occur on irregular schedules over a day or a period of days.
 
-# There are few advantages of using Prophet
+## There are few advantages of using Prophet
 • Accommodates seasonality with multiple periods
 • Prophet is resilient to missing values
 • Best way to handle outliers in Prophet is to remove them
 • Fitting of the model is fast
 • Intuitive hyper parameters which are easy to tune
 
-# Results of Project Functions
+## Results of Project Functions
 In this project two files are imported.
 Covid_19_india.csv
 Indian Coordinates.xls
