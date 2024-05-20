@@ -7,7 +7,7 @@ A Data Analysis project on the spread of the Novel Coronavirus in India. This pr
    
 # The important packages imported are as follows:
 
-# Import pandas as pd:
+## Import pandas as pd:
 Pandas is a python software package. It is a must to learn for data-science and dedicatedly written for Python language. It is a fast, demonstrative, and adjustable platform that offers intuitive data-structures. You can easily manipulate any type of data such as – structured or time-series data with this amazing package.
 # Import NumPy as np NumPy is a popular array 
 – processing package of Python. It provides good support for different dimensional array objects as well as for matrices. Numpy is not only confined to providing arrays only, but it also provides a variety of tools to manage these arrays. It is fast, efficient, and really good for managing matrices and arrays.
